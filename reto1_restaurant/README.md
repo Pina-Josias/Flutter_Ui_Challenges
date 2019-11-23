@@ -9,7 +9,7 @@ Original design source: https://dribbble.com/shots/6373485-Heyo-Food-Delivery-Ap
 
 ##Screenshoots 
 
-![Screenshot_1574208271](https://user-images.githubusercontent.com/52869805/69475424-dcdfca80-0d9a-11ea-99c8-57a2975b194c.png)
+<img source="https://user-images.githubusercontent.com/52869805/69475424-dcdfca80-0d9a-11ea-99c8-57a2975b194c.png" width=100>
 ![Screenshot_1574494660](https://user-images.githubusercontent.com/52869805/69475425-dcdfca80-0d9a-11ea-9225-c33ce101cfa9.png)
 ![Screenshot_1574494664](https://user-images.githubusercontent.com/52869805/69475426-dd786100-0d9a-11ea-898f-04c1d87359cc.png)
 
