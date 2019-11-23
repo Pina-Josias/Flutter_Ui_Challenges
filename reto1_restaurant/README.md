@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+This is a UI challenge found in dribbble named: Heyo / Food Delivery App - IOS Screens by Taygun.
+
+Original design source: https://dribbble.com/shots/6373485-Heyo-Food-Delivery-App-IOS-Screens/attachments/1364624
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
