@@ -10,7 +10,7 @@ Original source no specified
 
 ## Flutter UI Design
 
-![Screenshot_1574622482](https://user-images.githubusercontent.com/52869805/69500012-7c00e100-0ec5-11ea-9a8a-b15a5b61456a.png)
+<img src= "https://user-images.githubusercontent.com/52869805/69500012-7c00e100-0ec5-11ea-9a8a-b15a5b61456a.png" width= 100>
 
 
 ## Getting Started
