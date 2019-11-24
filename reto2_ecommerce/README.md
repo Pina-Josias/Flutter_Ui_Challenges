@@ -1,6 +1,16 @@
 # reto2_ecommerce
 
-A new Flutter application.
+This is a UI design challenge in flutter, no responsive, just designed for Pixel 3XL.
+
+## Source 
+
+Original source no specified
+![95de9f60-ad9e-4574-8374-e28b246d66ab](https://user-images.githubusercontent.com/52869805/69500009-773c2d00-0ec5-11ea-888a-d92fa66257c0.jpg)
+
+## Flutter UI Design
+
+![Screenshot_1574622482](https://user-images.githubusercontent.com/52869805/69500012-7c00e100-0ec5-11ea-9a8a-b15a5b61456a.png)
+
 
 ## Getting Started
 
