@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+This is a UI design challenge in flutter, no responsive, just designed for Pixel 3XL.
+
+
 ## Source 
 
 <img src="https://user-images.githubusercontent.com/52869805/69598808-a2637100-0fd8-11ea-9b37-107593e5d7a4.jpg" width=200> 
