@@ -4,6 +4,8 @@ A new Flutter application.
 
 This is a UI challenge found in dribbble named: Heyo / Food Delivery App - IOS Screens by Taygun.
 
+This is a UI design challenge in flutter, no responsive, just designed for Pixel 3XL.
+
 Original design source: https://dribbble.com/shots/6373485-Heyo-Food-Delivery-App-IOS-Screens/attachments/1364624
 
 ## Original Source
