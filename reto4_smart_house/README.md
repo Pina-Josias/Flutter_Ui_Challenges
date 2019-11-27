@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Source 
 
-<img src="https://user-images.githubusercontent.com/52869805/69694563-369c0980-10a7-11ea-9e3b-abe7b5756b55.png" width=350> 
+<img src="https://user-images.githubusercontent.com/52869805/69694563-369c0980-10a7-11ea-9e3b-abe7b5756b55.png" width=500> 
 
 ## Flutter Design
 
