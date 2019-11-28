@@ -10,6 +10,12 @@ Original design source: https://www.uplabs.com/posts/spa-application
 
 ## Original Source
 
+<img src="https://user-images.githubusercontent.com/52869805/69771344-7bcd4380-115a-11ea-8afd-dfbe592a8a4a.png" width= 250>
+
+
+## Flutter Design
+
+<img src="https://user-images.githubusercontent.com/52869805/69771352-825bbb00-115a-11ea-84e6-b855f07f0945.png" width= 250>
 
 ## Getting Started
 
