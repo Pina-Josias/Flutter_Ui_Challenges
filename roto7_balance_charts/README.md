@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+
+Tablet Banking App | Statistic by Alexander Plyuto
+Original design source: https://dribbble.com/shots/7012032-Tablet-Banking-App-Statistic
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
