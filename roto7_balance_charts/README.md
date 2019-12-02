@@ -10,7 +10,7 @@ Original design source: https://dribbble.com/shots/7012032-Tablet-Banking-App-St
 
 ## Original Source
 
-<img src="https://user-images.githubusercontent.com/52869805/69931325-d5a07700-1494-11ea-949c-e10783af944b.png" width= 250>
+<img src="https://user-images.githubusercontent.com/52869805/69931325-d5a07700-1494-11ea-949c-e10783af944b.png" width= 500>
 
 ## Flutter Design
 
