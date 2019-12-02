@@ -10,11 +10,12 @@ Original design source: https://dribbble.com/shots/7012032-Tablet-Banking-App-St
 
 ## Original Source
 
-<img src="https://user-images.githubusercontent.com/52869805/69931082-f4ead480-1493-11ea-9580-74c90bdb559a.jpg" width= 250>
+<img src="https://user-images.githubusercontent.com/52869805/69931325-d5a07700-1494-11ea-949c-e10783af944b.png" width= 250>
 
 ## Flutter Design
 
-<img src="https://user-images.githubusercontent.com/52869805/69931110-0633e100-1494-11ea-9b67-f9db27cca7ac.png" width= 250>
+<img src="https://user-images.githubusercontent.com/52869805/69931334-dcc78500-1494-11ea-8259-663255343e47.png" width= 250> <img src="https://user-images.githubusercontent.com/52869805/69931335-dcc78500-1494-11ea-8915-0150e4783f20.png" width= 250>
+
 
 ## Getting Started
 
