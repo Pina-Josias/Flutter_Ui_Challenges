@@ -2,9 +2,19 @@
 
 A new Flutter application.
 
+This is a UI challenge found in dribbble named: Tablet Banking App | Statistic by Alexander Plyuto
 
-Tablet Banking App | Statistic by Alexander Plyuto
+This is a UI design challenge in flutter, no responsive, just designed for Pixel 3XL.
+
 Original design source: https://dribbble.com/shots/7012032-Tablet-Banking-App-Statistic
+
+## Original Source
+
+<img src="https://user-images.githubusercontent.com/52869805/69931082-f4ead480-1493-11ea-9580-74c90bdb559a.jpg" width= 250>
+
+## Flutter Design
+
+<img src="https://user-images.githubusercontent.com/52869805/69931110-0633e100-1494-11ea-9b67-f9db27cca7ac.png" width= 250>
 
 ## Getting Started
 
