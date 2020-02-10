@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/roto7_balance_charts/android/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
