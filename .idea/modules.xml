@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/roto7_balance_charts/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/roto7_balance_charts/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roto7_balance_charts/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/roto7_balance_charts/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto6_social_meetup/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/reto6_social_meetup/android/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto3_ecommerce2/android/app/src/main/main2.iml" filepath="$PROJECT_DIR$/reto3_ecommerce2/android/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto1_restaurant/android/app/src/main/main3.iml" filepath="$PROJECT_DIR$/reto1_restaurant/android/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto4_smart_house/android/app/src/main/main4.iml" filepath="$PROJECT_DIR$/reto4_smart_house/android/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto2_ecommerce/android/app/src/main/main5.iml" filepath="$PROJECT_DIR$/reto2_ecommerce/android/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto5_spa/android/app/src/main/main6.iml" filepath="$PROJECT_DIR$/reto5_spa/android/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roto7_balance_charts/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/roto7_balance_charts/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto1_restaurant/reto1_restaurant.iml" filepath="$PROJECT_DIR$/reto1_restaurant/reto1_restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto2_ecommerce/reto2_ecommerce.iml" filepath="$PROJECT_DIR$/reto2_ecommerce/reto2_ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto3_ecommerce2/reto3_ecommerce2.iml" filepath="$PROJECT_DIR$/reto3_ecommerce2/reto3_ecommerce2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto4_smart_house/reto4_smart_house.iml" filepath="$PROJECT_DIR$/reto4_smart_house/reto4_smart_house.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto5_spa/reto5_spa.iml" filepath="$PROJECT_DIR$/reto5_spa/reto5_spa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reto6_social_meetup/reto6_social_meetup.iml" filepath="$PROJECT_DIR$/reto6_social_meetup/reto6_social_meetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roto7_balance_charts/roto7_balance_charts.iml" filepath="$PROJECT_DIR$/roto7_balance_charts/roto7_balance_charts.iml" />
+    </modules>
+  </component>
+</project>
